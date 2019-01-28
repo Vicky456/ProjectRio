@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808287860507",
+    "firebase_url": "https://projectrio-1a2ce.firebaseio.com",
+    "project_id": "projectrio-1a2ce",
+    "storage_bucket": "projectrio-1a2ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808287860507:android:ace35afddd087c2b",
+        "android_client_info": {
+          "package_name": "com.vicky.projectrio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808287860507-9b0fittd9cl31n4mqrmt9ka0as2nc9t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vicky.projectrio",
+            "certificate_hash": "41c3a13cd15a9a94101173a87299423bc38b7aff"
+          }
+        },
+        {
+          "client_id": "808287860507-hctiudqvdjhpp720gt9j34e0jbi3t5vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRAbBLp5XXH9xd6kw3Q_A8fwgCe_zk8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808287860507-4j546g245taccbl0fi6epkd13341q2p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
